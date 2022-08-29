@@ -1,0 +1,12 @@
+server:
+  port: 8090
+
+host:
+  redis: "13.232.170.246"
+port:
+  redis: 6379
+
+spring:
+  redis:
+  host: 13.232.170.246
+  port: 6379
